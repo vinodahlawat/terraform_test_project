@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"database","Source":"./database","Dir":"database"},{"Key":"compute","Source":"./compute","Dir":"compute"},{"Key":"ALB","Source":"./ALB","Dir":"ALB"},{"Key":"networking","Source":"./networking","Dir":"networking"},{"Key":"","Source":"","Dir":"."},{"Key":"data_base","Source":"./database","Dir":"database"}]}
